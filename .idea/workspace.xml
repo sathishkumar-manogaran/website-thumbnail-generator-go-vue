@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd8c7b1d-d43b-446d-a25b-5511764dc106" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/frontend/src/App.vue" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1hVGbUhzULg09qroL6CHggU1KGP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/Dirk94/website-thumbnail-generator/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="website-thumbnail-generator" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main/server.go" />
+      <package value="github.com/Dirk94/website-thumbnail-generator/main" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/Dirk94/website-thumbnail-generator/main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1324" height="233" key="GridCell.Tab.0.bottom" timestamp="1600089470282">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state width="1324" height="233" key="GridCell.Tab.0.bottom/0.23.1366.745@0.23.1366.745" timestamp="1600089470282" />
+    <state width="1324" height="233" key="GridCell.Tab.0.center" timestamp="1600089470281">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state width="1324" height="233" key="GridCell.Tab.0.center/0.23.1366.745@0.23.1366.745" timestamp="1600089470281" />
+    <state width="1324" height="233" key="GridCell.Tab.0.left" timestamp="1600089470281">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state width="1324" height="233" key="GridCell.Tab.0.left/0.23.1366.745@0.23.1366.745" timestamp="1600089470281" />
+    <state width="1324" height="233" key="GridCell.Tab.0.right" timestamp="1600089470282">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state width="1324" height="233" key="GridCell.Tab.0.right/0.23.1366.745@0.23.1366.745" timestamp="1600089470282" />
+    <state x="389" y="28" width="588" height="735" key="find.popup" timestamp="1600089367845">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state x="389" y="28" width="588" height="735" key="find.popup/0.23.1366.745@0.23.1366.745" timestamp="1600089367845" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1600089155901">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.23.1366.745@0.23.1366.745" timestamp="1600089155901" />
+  </component>
+</project>
